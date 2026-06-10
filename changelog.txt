@@ -1,0 +1,21 @@
+---------------------------------------------------------------------------------------------------
+Version: 0.3.4
+Date: 2026-06-10
+  翻译:
+    - 新增翻译文件：`canal-excavator`、`spoilage-scanner`、`wooden-platform`。
+---------------------------------------------------------------------------------------------------
+Version: 0.3.3
+Date: 2026-06-10
+  翻译:
+    - 调整 Arig 翻译，使其更符合其他星球名称格式。
+---------------------------------------------------------------------------------------------------
+Version: 0.3.2
+Date: 2026-06-10
+  翻译:
+    - 更新了若干中文翻译。
+---------------------------------------------------------------------------------------------------
+Version: 0.3.0
+Date: 2026-06-10
+  翻译:
+    - 添加了 `arachnids_enemy`、`arig`、`cargo_creates`、`condensing-agricultural-tower`、`depworks-rocket`、`diesel_machines`、`enhanced-walls`、`fishing-dock`、`frozenfood`、`k2-space-out`、`lubrication_tower`、`pelagos`、`pirateship`、`quality-seeds` 和 `virentis` 的中文翻译补充。
+

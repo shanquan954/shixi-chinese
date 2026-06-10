@@ -1,0 +1,6 @@
+# Ignore version control metadata and packaging files
+.git
+.gitignore
+.zipignore
+*.zip
+.vscode
