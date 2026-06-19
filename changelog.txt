@@ -1,4 +1,10 @@
 ---------------------------------------------------------------------------------------------------
+Version: 0.5.0
+Date: 2026-06-20
+  翻译:
+    - 新增翻译文件：`calciner`、`doeworks-deer`、`dynamic-rain`、`planetaris-hyarion`、`planetaris-tellus`、`RailSignalPlanner`、`its-about-time`。
+    - 更新翻译文件：`Arachnids_enemy`、`canal-excavator`、`cargo_creates`、`condensing-agricultural-tower`、`diesel_machines`、`enhanced-walls`、`fishing-dock`、`FrozenFood`、`Krastorio2-spaced-out`、`lubrication_tower`、`pelagos`、`pirateship`、`planetaris-arig`、`quality-seeds-fork`、`spoilage-scanner`、`virentis`、`wooden_platform`。
+---------------------------------------------------------------------------------------------------
 Version: 0.3.4
 Date: 2026-06-10
   翻译:
