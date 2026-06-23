@@ -1,13 +1,13 @@
 {
     "name": "shixi-chinese",
-    "version": "0.5.0",
+    "version": "0.5.1",
     "title": "中文翻译补充",
     "author": "shixi",
     "homepage": "https://mods.factorio.com/user/shixi",
     "description": "对一些模组进行中文翻译补充，以及一些个人使用但还未有人翻译的模组的翻译",
-    "factorio_version": "2.0",
+    "factorio_version": "2.1",
     "dependencies": [
-        "base >= 2.0",
+        "base >= 2.1",
         "? aotixzhcn >= 3.25.3",
         "? chinese >= 2.94.0",
         "? planetaris-arig >= 1.1.34"
