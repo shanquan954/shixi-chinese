@@ -1,4 +1,12 @@
 ---------------------------------------------------------------------------------------------------
+Version: 0.7.0
+Date: 2026-06-29
+  翻译:
+    - 为 `locale/zh-CN` 下全部翻译文件补充或修正 `mod-name` 与 `mod-description`。
+    - 新增模组名称与描述：`quality-seeds-fork`、`lubrication_tower`、`SteampunkLamp`、`pelagos`、`spoilage-scanner`、`wooden_platform`、`planetaris-tellus`、`pirateship`、`RailSignalPlanner`、`Krastorio2-spaced-out`。
+    - 补充模组描述：`enhanced-walls`、`dynamic-rain`、`cargo_creates`、`diesel_machines`、`frozen-goodies`、`canal-excavator`、`calciner`、`fishing-dock`、`virentis`。
+    - 修正 `planetaris-hyarion`、`planetaris-arig`、`condensing-agricultural-tower` 中错误的 `title`/`description` 键名。
+---------------------------------------------------------------------------------------------------
 Version: 0.6.1
 Date: 2026-06-28
   翻译:
